@@ -1,7 +1,7 @@
 <em> # Challenge Amigo Secreto</em>
 
 ![Static Badge](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML) ![Static Badge](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css) ![Static Badge](https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=JavaScript&color=96979B)
-https://img.shields.io/badge/Complete-blue?style=flat&label=Status
+![Static Badge](https://img.shields.io/badge/Complete-blue?style=flat&label=Status)
 
 Aplicación web para gestionar un sorteo de "Amigo Secreto". Permite agregar nombres a una lista y seleccionar aleatoriamente un participante como ganador. Todo se actualiza dinámicamente en la interfaz usando JavaScript y manipulación del DOM.
 
